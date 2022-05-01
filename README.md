@@ -7,4 +7,8 @@ This is a starter boilerplate for HTML, CSS, and JavaScript project, you can use
 
 ### Layout
 
+Grid vs. Flex
+
+Position: relative vs. absolution vs. inherit
+
 ### CSS properties
