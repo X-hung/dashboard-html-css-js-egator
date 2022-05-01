@@ -698,8 +698,11 @@ main .recent-orders a {
 
         .right .top .theme-toggler {
             width: 4.4rem;
-            position: absolute;
-            left: 66%;
+            position: relative;
+        }
+
+        .right .profile  {
+            margin-right: 2rem;
         }
 
         .right .profile .info {
